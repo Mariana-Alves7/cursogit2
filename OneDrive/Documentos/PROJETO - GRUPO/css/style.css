@@ -1,0 +1,45 @@
+*{
+  text-align: center;
+}
+
+.cabecalho{
+  background-image: url(/imagens/vista.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(131, 131, 14);
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+.conteudo{
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+.img-site{
+  background-image: url(/imagens/natureza.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(24, 24, 22);
+  padding-top: 300px;
+  padding-bottom: 300px;
+}
+
+.rodape-site{
+  background-color: #333333;
+  color: white;
+  padding-top: 250px;
+  padding-bottom: 50px;
+}
+
+div.coluna-4{
+  width: 300px;
+  display: inline-block;
+}
+.coluna-4{
+  right: 50cm;
+}
